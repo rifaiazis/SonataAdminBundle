@@ -10,6 +10,8 @@
  */
 
 
+namespace Sonata\AdminBundle\Block;
+
 
 use Sonata\AdminBundle\Admin\Pool;
 use Sonata\BlockBundle\Block\BlockContextInterface;
